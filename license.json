@@ -7,7 +7,7 @@
             "expiration_date": "31/12/2024"
         },
         {
-            "license": "YOUR_KEY_2",
+            "license": "ABC12345",
             "username": "User 2",
             "processorid": "HWID_2",
             "expiration_date": "lifetime"
