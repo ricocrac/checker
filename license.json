@@ -8,8 +8,8 @@
         },
         {
             "license": "ABC12345",
-            "username": "User 2",
-            "processorid": "HWID_2",
+            "username": "Rico",
+            "processorid": "BFEBFBFF000A0653",
             "expiration_date": "lifetime"
         }
     ]
