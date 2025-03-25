@@ -1,6 +1,16 @@
 {
-    "username": "Customer1",
-    "license": "CYBE-RTOO-L123-4567",
-    "processorid": "BFEBFBFF000A0653",
-    "expirationdate": "26/03/2025"
+    "licenses": [
+        {
+            "license": "KEY1",
+            "username": "User1",
+            "processorid": "HWID1",
+            "expiration_date": "31/12/2024"
+        },
+        {
+            "license": "KEY2",
+            "username": "User2",
+            "processorid": "HWID2", 
+            "expiration_date": "lifetime"
+        }
+    ]
 }
