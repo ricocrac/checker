@@ -1,13 +1,11 @@
 {
     "licenses": [
         {
-            "license": "YOUR_KEY_1",
-            "username": "User 1",
+            "username": "Authorized User 1",
             "processorid": "HWID_1",
             "expiration_date": "31/12/2024"
         },
         {
-            "license": "ABC12345",
             "username": "Rico",
             "processorid": "BFEBFBFF000A0653",
             "expiration_date": "lifetime"
