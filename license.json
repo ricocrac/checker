@@ -1,9 +1,9 @@
 {
     "licenses": [
         {
-            "username": "Authorized User 1",
-            "processorid": "HWID_1",
-            "expiration_date": "31/12/2024"
+            "username": "g8023",
+            "processorid": "BFEBFBFF000A0671",
+            "expiration_date": "Lifetime"
         },
         {
             "username": "Admin",
