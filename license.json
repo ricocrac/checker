@@ -9,6 +9,11 @@
             "username": "Admin",
             "processorid": "BFEBFBFF000A0653",
             "expiration_date": "Lifetime"
+        },
+        {
+            "username": "Peter",
+            "processorid": "BFEBFBFF00090672",
+            "expiration_date": "Lifetime"
         }
     ]
 }
