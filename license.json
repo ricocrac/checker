@@ -20,7 +20,8 @@
             "processorid": "078BFBFF00A00F11",
             "expiration_date": "Lifetime"
         },
-        {   "username": "Sudo",
+        {   
+            "username": "Sudo",
             "processorid": "BFEBFBFF000B06F2"
             "expiration_date": "Lifetime"
         }
